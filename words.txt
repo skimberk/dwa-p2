@@ -102,7 +102,7 @@ every
 start
 hand
 might
-American
+american
 show
 part
 about
@@ -427,7 +427,7 @@ table
 need
 court
 produce
-American
+american
 teach
 half
 situation
@@ -476,7 +476,7 @@ type
 attention
 draw
 film
-Republican
+republican
 tree
 source
 nearly
@@ -519,7 +519,7 @@ daughter
 administration
 south
 husband
-Congress
+congress
 floor
 campaign
 material
@@ -766,7 +766,7 @@ expert
 that
 spring
 firm
-Democrat
+democrat
 radio
 visit
 management
@@ -962,7 +962,7 @@ eventually
 forest
 video
 global
-Senate
+senate
 reform
 access
 restaurant
@@ -1031,7 +1031,7 @@ conflict
 spirit
 experience
 replace
-British
+british
 encourage
 argument
 once
@@ -1049,7 +1049,7 @@ battle
 beginning
 date
 generally
-African
+african
 very
 sorry
 crisis
@@ -1063,7 +1063,7 @@ element
 vision
 status
 normal
-Chinese
+chinese
 ship
 solution
 stone
@@ -1090,7 +1090,7 @@ supposed
 tradition
 winter
 village
-Soviet
+soviet
 refuse
 sales
 roll
@@ -1106,7 +1106,7 @@ farm
 potential
 increase
 middle
-European
+european
 presence
 independent
 district
@@ -1114,7 +1114,7 @@ shape
 reader
 contract
 crowd
-Christian
+christian
 express
 apartment
 willing
@@ -1202,8 +1202,8 @@ result
 insist
 failure
 annual
-French
-Christmas
+french
+christmas
 comment
 responsible
 affair
@@ -1272,7 +1272,7 @@ focus
 smile
 location
 clothes
-Indian
+indian
 quiet
 dress
 promise
@@ -1298,13 +1298,13 @@ hell
 dangerous
 remind
 moral
-United
+united
 category
 relatively
 victory
 academic
 visit
-Internet
+internet
 healthy
 fire
 negative
@@ -1395,7 +1395,7 @@ paint
 fuel
 leaf
 direct
-Russian
+russian
 instruction
 fight
 pool
@@ -1448,7 +1448,7 @@ weather
 presidential
 emotional
 commitment
-Supreme
+supreme
 bear
 pocket
 thin
@@ -1482,7 +1482,7 @@ somehow
 organize
 jury
 breast
-Iraqi
+iraqi
 human
 acknowledge
 theme
@@ -1523,7 +1523,6 @@ recommend
 obvious
 train
 basically
-e-mail
 generate
 anymore
 propose
@@ -1550,7 +1549,7 @@ capture
 prefer
 truly
 earth
-Japanese
+japanese
 chest
 search
 thick
@@ -1587,11 +1586,10 @@ duty
 sheet
 ought
 ensure
-Catholic
+catholic
 extremely
 extent
 component
-long-term
 slow
 contrast
 zone
@@ -1612,7 +1610,7 @@ estate
 guide
 circumstance
 snow
-English
+english
 politician
 steal
 pursue
@@ -1625,7 +1623,7 @@ soil
 influence
 surgery
 correct
-Jewish
+jewish
 blame
 estimate
 basketball
@@ -1651,7 +1649,7 @@ silence
 rating
 golden
 motion
-German
+german
 gender
 solve
 landscape
@@ -1724,7 +1722,7 @@ judgment
 clean
 except
 beer
-English
+english
 reference
 tear
 doubt
@@ -1825,7 +1823,7 @@ cable
 towards
 expose
 rural
-AIDS
+aids
 narrow
 cream
 secretary
@@ -1901,7 +1899,7 @@ passenger
 assistance
 forever
 regard
-Israeli
+israeli
 association
 twenty
 knock
@@ -2013,11 +2011,11 @@ desert
 shall
 error
 release
-Arab
+arab
 double
 walk
 sand
-Spanish
+spanish
 rule
 print
 preserve
@@ -2058,7 +2056,7 @@ phase
 present
 joke
 coat
-Mexican
+mexican
 symptom
 contact
 manufacturer
@@ -2127,7 +2125,7 @@ transfer
 analyze
 another
 attach
-Indian
+indian
 disaster
 parking
 prospect
@@ -2157,7 +2155,7 @@ emphasis
 illustrate
 boot
 monitor
-Asian
+asian
 entertainment
 bean
 evaluation
@@ -2193,7 +2191,6 @@ stop
 strongly
 engineering
 luck
-so-called
 constant
 race
 clinic
@@ -2329,13 +2326,13 @@ protein
 quit
 absence
 roll
-Latin
+latin
 rapidly
 jail
 comment
 diversity
 honest
-Palestinian
+palestinian
 pace
 employment
 speaker
@@ -2392,11 +2389,11 @@ normally
 phrase
 ingredient
 stake
-Muslim
+muslim
 dream
 fiber
 activist
-Islamic
+islamic
 snap
 terrorism
 refugee
@@ -2436,8 +2433,8 @@ personally
 wonder
 clock
 chocolate
-Italian
-Canadian
+italian
+canadian
 ceiling
 sweep
 advertising
@@ -2533,12 +2530,12 @@ terror
 though
 expansion
 elite
-Olympic
+olympic
 dirt
 rice
 bullet
 tight
-Bible
+bible
 chart
 solar
 decline
@@ -2717,7 +2714,7 @@ comfort
 radical
 stress
 adapt
-Irish
+irish
 honey
 correspondent
 pale
@@ -2728,7 +2725,6 @@ round
 vessel
 storage
 flee
-mm-hmm
 leather
 distribute
 evolution
@@ -2853,7 +2849,7 @@ tent
 examination
 publisher
 strengthen
-French
+french
 proposed
 myth
 sophisticated
@@ -2879,7 +2875,7 @@ sufficient
 narrative
 photographer
 helicopter
-Catholic
+catholic
 modest
 provider
 delay
@@ -2907,7 +2903,7 @@ motivation
 assignment
 restriction
 across
-Palestinian
+palestinian
 laboratory
 workshop
 differently
@@ -2940,13 +2936,13 @@ brilliant
 versus
 manufacturing
 risk
-Christian
+christian
 complex
 absolute
 chef
 discrimination
 offensive
-German
+german
 suit
 boom
 register
@@ -3082,7 +3078,6 @@ mouse
 rope
 concrete
 prescription
-African-American
 chase
 document
 brick
@@ -3253,7 +3248,6 @@ weakness
 cold
 classical
 estimated
-T-shirt
 online
 unemployment
 civilization
@@ -3269,23 +3263,23 @@ developer
 reliable
 excitement
 beef
-Islam
-Roman
+islam
+roman
 stretch
 architecture
 occasional
 administrative
 elbow
 deadly
-Muslim
-Hispanic
+muslim
+hispanic
 allegation
 confuse
 airplane
 monthly
 duck
 dose
-Korean
+korean
 plead
 initiate
 lecture
@@ -3375,7 +3369,6 @@ temple
 medium
 outdoor
 suck
-and/or
 broadcast
 leap
 random
@@ -3455,7 +3448,7 @@ undermine
 freshman
 sweat
 outer
-European
+european
 drunk
 survey
 research
@@ -3522,15 +3515,11 @@ relieve
 suspicion
 lock
 finish
-health-care
-health-care
-health-care
-health-care
 residence
 shame
 meaningful
 sidewalk
-Olympics
+olympics
 technological
 signature
 pleasant
@@ -3610,7 +3599,7 @@ hers
 pastor
 jazz
 opera
-Japanese
+japanese
 bite
 frame
 evil
@@ -3633,7 +3622,7 @@ repair
 decent
 oral
 clerk
-Israeli
+israeli
 envelope
 reporting
 destination
@@ -3686,7 +3675,6 @@ worry
 judicial
 entity
 suffering
-full-time
 feel
 lamp
 garbage
@@ -3712,7 +3700,7 @@ gravity
 enroll
 diminish
 prevention
-Arab
+arab
 value
 minimize
 chop
@@ -3748,7 +3736,7 @@ prohibit
 representative
 content
 realistic
-Russian
+russian
 hidden
 command
 tender
@@ -3809,18 +3797,13 @@ sentiment
 cart
 oversee
 stem
-o'clock
 elder
-o'clock
-o'clock
-o'clock
 inspiration
-Dutch
+dutch
 quantity
 trailer
 mate
-o'clock
-Greek
+greek
 genius
 monument
 quest
@@ -3941,7 +3924,7 @@ revelation
 rent
 calm
 jewelry
-Cuban
+cuban
 haul
 concede
 trace
@@ -3996,7 +3979,6 @@ ministry
 verdict
 instruct
 skull
-self-esteem
 ease
 cooperative
 manipulate
@@ -4038,7 +4020,7 @@ utilize
 breeze
 costly
 ambitious
-Christianity
+christianity
 presumably
 influential
 translation
@@ -4097,7 +4079,6 @@ interact
 soap
 cute
 rival
-short-term
 punch
 hockey
 passing
@@ -4148,7 +4129,6 @@ placement
 dough
 grandchild
 reportedly
-well-known
 surrounding
 ecological
 outfit
@@ -4211,7 +4191,7 @@ colorful
 ideal
 constitution
 trainer
-Thanksgiving
+thanksgiving
 scent
 stack
 eyebrow
@@ -4273,7 +4253,7 @@ robot
 flood
 likewise
 informal
-Persian
+persian
 feather
 sphere
 tighten
@@ -4284,7 +4264,6 @@ publicity
 major
 unfold
 joke
-well-being
 validity
 ecosystem
 strictly
@@ -4304,7 +4283,6 @@ artifact
 sneak
 monkey
 mentor
-two-thirds
 listener
 lightning
 legally
@@ -4312,7 +4290,6 @@ sleeve
 disappointment
 disturb
 excessive
-high-tech
 debris
 pile
 logical
@@ -4474,7 +4451,6 @@ globe
 fragile
 objection
 chemistry
-old-fashioned
 crowded
 circle
 blast
@@ -4538,7 +4514,6 @@ broadcast
 premium
 accountability
 overwhelm
-one-third
 contemplate
 update
 spark

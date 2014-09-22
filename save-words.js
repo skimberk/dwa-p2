@@ -9,8 +9,8 @@ var words = '';
 for(var i = 0, len = elements.length; i < len; ++i) {
 	var word = elements[i].textContent;
 
-	if(word.length > 3) {
-		words += word + "\n";
+	if(word.length > 3 && /^[a-z0-9]+$/i.test(word)) {
+		words += word.toLowerCase() + "\n";
 	}
 }
 
