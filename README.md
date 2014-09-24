@@ -14,3 +14,4 @@ A website which generates a random password based off of a list of common words.
 
 ##Outside code
 Words: <https://www.englishclub.com/vocabulary/common-words-5000.htm>
+Form serializer: <https://gist.github.com/bullgare/5336154>
