@@ -87,6 +87,7 @@
     <input type="submit" value="Generate!">
   </form>
 
+  <script src="./js/debounce.js"></script>
   <script src="./js/serialize.js"></script>
   <script src="./js/main.js"></script>
 </body>

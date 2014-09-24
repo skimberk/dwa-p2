@@ -1,66 +1,71 @@
 (function() {
   'use strict';
 
-  var serialize = function(form) {
-    if (!form || form.nodeName !== "FORM") {
+  var serialize = function(f) {
+    var i, j, q;
+    if (!f || f.nodeName !== "FORM") {
       return;
     }
-    var i, j,
-      obj = {};
-    for (i = form.elements.length - 1; i >= 0; i = i - 1) {
-      if (form.elements[i].name === "") {
+    i = j = void 0;
+    q = [];
+    i = f.elements.length - 1;
+    while (i >= 0) {
+      if (f.elements[i].name === "") {
+        i = i - 1;
         continue;
       }
-      switch (form.elements[i].nodeName) {
-      case 'INPUT':
-        switch (form.elements[i].type) {
-        case 'text':
-        case 'hidden':
-        case 'password':
-        case 'button':
-        case 'reset':
-        case 'submit':
-          obj[form.elements[i].name] = encodeURIComponent(form.elements[i].value);
-          break;
-        case 'checkbox':
-        case 'radio':
-          if (form.elements[i].checked) {
-            obj[form.elements[i].name] = encodeURIComponent(form.elements[i].value);
+      switch (f.elements[i].nodeName) {
+        case "INPUT":
+          switch (f.elements[i].type) {
+            case "text":
+            case "hidden":
+            case "password":
+            case "button":
+            case "reset":
+            case "number":
+            case "email":
+            case "submit":
+              q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].value));
+              break;
+            case "checkbox":
+            case "radio":
+              if (f.elements[i].checked) {
+                q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].value));
+              }
+              break;
+            case "file":
+              break;
           }
           break;
-        case 'file':
+        case "TEXTAREA":
+          q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].value));
           break;
-        }
-        break;
-      case 'TEXTAREA':
-        obj[form.elements[i].name] = encodeURIComponent(form.elements[i].value);
-        break;
-      case 'SELECT':
-        switch (form.elements[i].type) {
-        case 'select-one':
-          obj[form.elements[i].name] = encodeURIComponent(form.elements[i].value);
-          break;
-        case 'select-multiple':
-          for (j = form.elements[i].options.length - 1; j >= 0; j = j - 1) {
-            if (form.elements[i].options[j].selected) {
-              obj[form.elements[i].name] = encodeURIComponent(form.elements[i].options[j].value);
-            }
+        case "SELECT":
+          switch (f.elements[i].type) {
+            case "select-one":
+              q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].value));
+              break;
+            case "select-multiple":
+              j = f.elements[i].options.length - 1;
+              while (j >= 0) {
+                if (f.elements[i].options[j].selected) {
+                  q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].options[j].value));
+                }
+                j = j - 1;
+              }
           }
           break;
-        }
-        break;
-      case 'BUTTON':
-        switch (form.elements[i].type) {
-        case 'reset':
-        case 'submit':
-        case 'button':
-          obj[form.elements[i].name] = encodeURIComponent(form.elements[i].value);
-          break;
-        }
-        break;
+        case "BUTTON":
+          switch (f.elements[i].type) {
+            case "reset":
+            case "submit":
+            case "button":
+              q.push(f.elements[i].name + "=" + encodeURIComponent(f.elements[i].value));
+          }
       }
+      i = i - 1;
     }
-    return obj;
+    return q.join("&");
   };
 
   window.app = window.app || {};
