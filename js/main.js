@@ -25,4 +25,8 @@
 
     xhr.send();
   }, false);
+
+  passwordElem.addEventListener('click', function() {
+    app.select(passwordElem);
+  });
 }).call(this);
