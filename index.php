@@ -16,7 +16,7 @@
 
   <div class="container">
     <h2>XKCD Password Generator</h2>
-    Password: <b id="password"><?= $password; ?></b>
+    <div class="password" id="password"><?= $password; ?></div>
 
     <form action="./" method="GET">
       <div class="field">
@@ -37,6 +37,8 @@
       </div>
       <input type="submit" value="Generate!">
     </form>
+
+    <img src="http://imgs.xkcd.com/comics/password_strength.png" alt="XKCD Password Comic">
   </div>
 
   <script src="./js/select.js"></script>

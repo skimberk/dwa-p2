@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .container {
@@ -8,4 +8,15 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.password {
+  font-family: "Andale Mono", AndaleMono, monospace;
+  margin: 20px 0;
+  font-size: 24px;
+}
+
+img {
+  max-width: 100%;
+  margin: 20px 0;
 }
