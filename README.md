@@ -10,7 +10,7 @@ A website which generates a random password based off of a list of common words.
 Will be given during my section.
 
 ##Details for teaching team
-The file `save-words.js` was used to generate the word list.
+The file `save-words.js` was used to generate the word list (which contains 4641 words).
 
 AJAX is used to fetch new passwords.
 
